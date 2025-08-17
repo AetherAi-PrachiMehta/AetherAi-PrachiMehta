@@ -2,7 +2,7 @@
 
 ## 🌟 Associate AI/ML Software Engineer @ AetherAI
 
-I'm currently starting my **Associate Software Engineering AI/ML** at **AetherAI**, where I'm diving deep into cutting-edge artificial intelligence solutions. Passionate about learning and contributing to meaningful AI projects that make a real impact.
+I'm currently starting as **Associate Software Engineering AI/ML** at **AetherAI**, where I'm diving deep into cutting-edge artificial intelligence solutions. Passionate about learning and contributing to meaningful AI projects that make a real impact.
 
 ## 🚀 What I'm Working On
 - 🤖 **Learning AI/ML Engineering** - Building practical machine learning systems
