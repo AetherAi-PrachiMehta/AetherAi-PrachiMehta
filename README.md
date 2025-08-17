@@ -12,8 +12,7 @@ I'm currently starting my **Associate Software Engineering AI/ML** at **AetherAI
 
 ## 🛠️ Technologies I Use
 - Python
-- TensorFlow
-- PyTorch
+- AI-ML
 - Git
 - Docker
 - AWS/Azure
